@@ -50,17 +50,21 @@ Successful insertion of light-sensitive ion channels into cochlear outer hair ce
 The hearing range of mammals varies greatly between species, with some adapted to hear very high frequency sound. This mechanically limits the lower frequency range of the cochlea, however. This project used behavioural methods to find evidence that the sacculus - an evolutionary old inner ear organ designed to detect gravity - may be able to detect lower frequency sounds. This saccular input affects the sensation of sound and enhances sub-conscious reactions such as the acoustic startle reflex and represents an unusual case of "multi"-sensory integration. 
 
 
-## Kaggle
-### EEG Seizure Prediction (2016; ongoing)
-**[Details](https://www.kaggle.com/c/melbourne-university-seizure-prediction)**  
+## Kaggle ([profile](https://www.kaggle.com/garethjns))
+### EEG Seizure Prediction (2016) 
+
+**Publications**: Kaggle Blog, 2017 | [**Code**](https://github.com/garethjns/Kaggle-EEG) | 
+**[Details](https://www.kaggle.com/c/melbourne-university-seizure-prediction/forums/t/26039/solutions)**  
 Using data from chronic multi channel electrode arrays implanted in human subjects to predict in advance the occurrence of epileptic seizures.
- - Current position: 3rd (as of 15/11/2016)
- - Further information details after competition ends (30/11/2016)
+ - Final position: 3rd (top solo entry)  
+
+**Techniques**: Signal processing, SVMs, tree ensembles, advanced cross validation
+
 
 ### Integer Sequence Learning (2016 - top 5%)
 **Publications:** [Kaggle Blog, 2016]() | **[Details and code](https://github.com/garethjns/Kaggle-IntegerSequenceLearning)**  
 Predicting the next term in integer sequences taken from the Online Encyclopedia of Integer sequences.
-- Final position: Top 5%  
+- Final position: 17th  
 
 **Techniques:** R; linear and non-linear regression; autoregressive models; SVMs; model validation with limited data; sequence tagging; unsupervised clustering; Markov chains.
 
