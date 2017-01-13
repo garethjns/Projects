@@ -19,14 +19,14 @@ Temporal synchrony and spatial congruency are two important cues for perceptual 
 ### Modelling multisensory integration (UCL; ongoing)
 **Publications:** [Current Opinion in Neurobiology, 2016](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:3s1wT3WcHBgC), [ARO conf., 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:g5m5HwL7SMYC), [BSA & SFN confs., 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:pqnbT2bcN3wC), [BSA & Auditory Cortex confs., 2014](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:rO6llkc54NcC) | **Code:** [Psychometric curve fitting](https://github.com/garethjns/PsychometricCurveFitting), [drift diffusion models](https://github.com/garethjns/DriftDiffusion), [race model](https://github.com/garethjns/RaceModel)  
 
-In mammals, integration of information between modalities is assumed to occur in higher (parietal, frontal) areas  of the brain, implying independent, unisensory processing chains that are combined later on. However, multisensory inputs to primary sensory cortices, particularly visual inputs to auditory cortex, are common. The function of these inputs is unknown, but it is possible they contribute to integration at an early stage of processing. Drift diffusion models of decision making can be used to model unisensory evidence accumulation with time, and extended to emulate both "early" and "late" integration systems.
+In mammals, integration of information between modalities is assumed to occur in higher (parietal, frontal) areas of the brain, implying independent, unisensory processing chains that are combined later on. However, multisensory inputs to primary sensory cortices, particularly visual inputs to auditory cortex, are common. The function of these inputs is unknown, but it is possible they contribute to integration at an early stage of processing. Drift diffusion models of decision making can be used to model unisensory evidence accumulation with time, and extended to emulate both "early" and "late" integration systems.
 
 **Techniques:** Electrophysiology using multi-channel array; psychophysical task design and implementation; signal analysis, filtering and cleaning; PCA; spike sorting, signal detection theory; race models; drift diffusion models; Bayesian statistics and perception
 
 ### Mechanical investigation of the mammalian tectorial membrane (Sussex, Brighton)
 **Publications:** [Biophysical Journal, 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&sortby=pubdate&citation_for_view=cU1sBXcAAAAJ:M05iB0D1s5AC), [MoH conf., 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&sortby=pubdate&citation_for_view=cU1sBXcAAAAJ:ZHo1McVdvXMC), [Biophysical Journal, 2013](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&sortby=pubdate&citation_for_view=cU1sBXcAAAAJ:UeHWp8X0CEIC), [IEB conf., 2012](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&sortby=pubdate&citation_for_view=cU1sBXcAAAAJ:qjMakFHDy7sC), [Thesis, 2012](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&sortby=pubdate&citation_for_view=cU1sBXcAAAAJ:d1gkVwhDpl0C), [MoH conf., 2011](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&sortby=pubdate&citation_for_view=cU1sBXcAAAAJ:u-x6o8ySG0sC) | **Code:** [Stochastic unwrap](https://github.com/garethjns/PhaseUnwrap)  
   
-The TM is the most complex acellular membrane in the body and is an important mechanical component of the mammalian cochlea. It exhibits similarly complex mechanical properties that change as it is vibrated at different acoustic frequencies. In collaboration with Steve Elliott at the University of Southampton, UK we developed a novel frequency-dependent model of the TM's viscoelastic (sheer storage modulus and sheer viscosity)  material properties. We found that the frequency dependence is generally lost when the structure of the TM is disrupted by genetic mutations found in humans families exhibiting hearing loss. 
+The TM is the most complex acellular membrane in the body and is an important mechanical component of the mammalian cochlea. It exhibits similarly complex mechanical properties that change as it is vibrated at different acoustic frequencies. In collaboration with Steve Elliott at the University of Southampton, UK we developed a novel frequency-dependent model of the TM's viscoelastic  material properties (sheer storage modulus and sheer viscosity). We found that the frequency dependence is generally lost when the structure of the TM is disrupted by genetic mutations found in humans families exhibiting hearing loss. 
 
 The frequency dependence of these properties add additional degrees of freedom yet to be included in models of the cochlea.
 
@@ -34,12 +34,12 @@ The frequency dependence of these properties add additional degrees of freedom y
 **Techniques:** Dissection; genetics; laser interferometry; 
 
 ### Optogenetic stimulation of mammalian out-hair cells (Brighton)
-Successful insertion of light-sensitive ion channels into cochlear outer hair cells has the potential to create a alternative, higher resolution mechanism of stimulation for hearing prosthesis compared to current electrical cochlear implants. In collaboration with the University of Memphis, USA, this project attempted to induce movement in *in vitro* hair cells with channelrhodopsin channels using laser light, and to detect this movement using existing laser interferometry techniques.
+Successful insertion of light-sensitive ion channels into cochlear outer hair cells has the potential to create an alternative, higher resolution mechanism of stimulation for hearing prosthesis compared to current electrical cochlear implants. In collaboration with the University of Memphis, USA, this project attempted to induce movement in *in vitro* hair cells with channelrhodopsin channels using laser light, and to detect this movement using existing laser interferometry techniques.
 
 
 ### Updating data acquisition hardware and software (Brighton)
 **Code:** [K8055D USB interface](https://github.com/garethjns/K8055D-USB)  
- - Upgrading hardware using ISA and GPIB interfaces to work with USB via Matlab
+ - Upgrading hardware using ISA and GPIB interfaces to work with USB via MATLAB
  - Replacing older PCI data acquisition boards with USB sound cards
  - Upgrading software environment to current version of MATLAB and from XP to Windows 7.
  - Update bespoke data acquisition software to work with new hardware and software environments.
@@ -53,16 +53,16 @@ The hearing range of mammals varies greatly between species, with some adapted t
 ## Kaggle ([profile](https://www.kaggle.com/garethjns))
 ### EEG Seizure Prediction (2016) 
 
-**Publications**: Kaggle Blog, 2017 | [**Code**](https://github.com/garethjns/Kaggle-EEG) | 
+**Publications**: [Kaggle Blog, 2017](http://blog.kaggle.com/2017/01/10/seizure-prediction-competition-3rd-place-winners-interview-gareth-jones/) | [**Code**](https://github.com/garethjns/Kaggle-EEG) | 
 **[Details](https://www.kaggle.com/c/melbourne-university-seizure-prediction/forums/t/26039/solutions)**  
 Using data from chronic multi channel electrode arrays implanted in human subjects to predict in advance the occurrence of epileptic seizures.
  - Final position: 3rd (top solo entry)  
 
-**Techniques**: Signal processing, SVMs, tree ensembles, advanced cross validation
+**Techniques**: Signal processing, SVMs, tree ensembles, advanced cross validation.
 
 
 ### Integer Sequence Learning (2016 - top 5%)
-**Publications:** [Kaggle Blog, 2016]() | **[Details and code](https://github.com/garethjns/Kaggle-IntegerSequenceLearning)**  
+**Publications:** [Kaggle Blog, 2016](http://blog.kaggle.com/2016/11/21/integer-sequence-learning-competition-solution-write-up-team-1-618-gareth-jones-laurent-borderie/) | **[Details and code](https://github.com/garethjns/Kaggle-IntegerSequenceLearning)**  
 Predicting the next term in integer sequences taken from the Online Encyclopedia of Integer sequences.
 - Final position: 17th  
 
