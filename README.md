@@ -1,18 +1,55 @@
 # Projects
+
+## Kaggle ([profile](https://www.kaggle.com/garethjns))
+
+### Data science bowl 2017
+https://www.kaggle.com/c/data-science-bowl-2017
+Predicting lung cancer occurrence from 3D CT scans. Code will be added after competition close (13/04/2017).
+
+ - Current position: ~350/1906
+
+**Techniques**: Image pre-processing, implementation of 2D convolutional UNET model in Keras, 3D convolutional neural networks for nodule assessment (TensorFlow), boosted trees (XGBoost) for classification and ensembling of all models.
+
+### EEG Seizure Prediction (2016) - 3rd
+
+**Publications**: [Kaggle Blog, 2017](http://blog.kaggle.com/2017/01/10/seizure-prediction-competition-3rd-place-winners-interview-gareth-jones/) | [**Code (MATLAB)**](https://github.com/garethjns/Kaggle-EEG) | 
+**[Details](https://www.kaggle.com/c/melbourne-university-seizure-prediction/forums/t/26039/solutions)**  
+Using data from chronic multi channel electrode arrays implanted in human subjects to predict in advance the occurrence of epileptic seizures.
+ - Final position: 3rd (top solo entry)  
+
+**Techniques**: Signal processing, SVMs, tree ensembles, advanced cross validation.
+
+### Integer Sequence Learning (2016) - top 20
+**Publications:** [Kaggle Blog, 2016](http://blog.kaggle.com/2016/11/21/integer-sequence-learning-competition-solution-write-up-team-1-618-gareth-jones-laurent-borderie/) | **[Details and code (R)](https://github.com/garethjns/Kaggle-IntegerSequenceLearning)**  
+Predicting the next term in integer sequences taken from the Online Encyclopedia of Integer sequences.
+- Final position: 17th  
+
+**Techniques:** R; linear and non-linear regression; autoregressive models; SVMs; model validation with limited data; sequence tagging; unsupervised clustering; Markov chains.
+
+### BNP Parabis Cardif (2016) - top 20%
+**[Details and code (R)](https://github.com/garethjns/Kaggle-BNPPC)**  
+**Techniques:** Extra Trees Classifiers in scikit-learn (Pyhton/Scikit-learn/Numpy/Pandas).
+
+### Santander (2016)
+**[Details and code (R)](https://github.com/garethjns/Kaggle-Santander)**  
+**Techniques:** Extra Trees in Python; Random forests in R (xgboost)
+
+
+
 ## Professional
 
 ### Exploring the role of temporal synchrony in multisensory integration and perceptual object formation (UCL; ongoing)
-**Publications:** [Current Opinion in Neurobiology, 2016](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:3s1wT3WcHBgC),[BSA & SFN confs., 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:pqnbT2bcN3wC), [ARO conf., 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&sortby=pubdate&citation_for_view=cU1sBXcAAAAJ:g5m5HwL7SMYC), [BSA & Auditory Cortex confs., 2014](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:rO6llkc54NcC) | **Code:** [Psychometric curve fitting](https://github.com/garethjns/PsychometricCurveFitting)    
+**Publications:** [Current Opinion in Neurobiology, 2016](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:3s1wT3WcHBgC),[BSA & SFN confs., 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:pqnbT2bcN3wC), [ARO conf., 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&sortby=pubdate&citation_for_view=cU1sBXcAAAAJ:g5m5HwL7SMYC), [BSA & Auditory Cortex confs., 2014](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:rO6llkc54NcC) | **Code:** [Psychometric curve fitting](https://github.com/garethjns/PsychometricCurveFitting), [NerualAnalysis](https://github.com/garethjns/NeuralAnalysis), [drift diffusion models](https://github.com/garethjns/DriftDiffusion)    
  
 Animals and humans integrate sensory information over time, and combine this information across modalities in order to make accurate and reliable decisions in complex and noisy environments. 
 Most previous examples of multisensory enhancement have relied on synchrony dependent mechanisms, but these mechanisms alone are unlikely to explain the entire scope of multisensory integration and perceptual object formation, particularly between senses such as vision and hearing, which process multidimensional stimuli and operate with different latency constraints. 
 
-**Techniques:** Neurosurgery; electrophysiology using multi-channel arrays; low noise, temporally precise, high throughput data acquisition; psychophysical task design and implementation (PsychToolbox); signal analysis, filtering and cleaning; PCA; spike sorting, signal detection theory; race models; descriptive statistics and hypothesis testing (ANOVA, etc.); post-stimulus time histograms
+**Techniques:** Neurosurgery; electrophysiology using multi-channel arrays; low noise, temporally precise, high throughput data acquisition; psychophysical task design and implementation (PsychToolbox); signal analysis, filtering and cleaning; PCA; spike sorting, signal detection theory; race models; descriptive statistics and hypothesis testing (ANOVA, etc.); post-stimulus time histograms.
 
 ### Exploring the role of spatial congruency in multisensory integration and perceptual object formation (UCL; ongoing)
-**Publications:** [Current Opinion in Neurobiology, 2016](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:3s1wT3WcHBgC),[BSA & SFN confs., 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:pqnbT2bcN3wC), [ARO conf., 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&sortby=pubdate&citation_for_view=cU1sBXcAAAAJ:g5m5HwL7SMYC),[BSA & Auditory Cortex confs., 2014](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:rO6llkc54NcC) | **Code:** [Psychometric curve fitting](https://github.com/garethjns/PsychometricCurveFitting), [drift diffusion models](https://github.com/garethjns/DriftDiffusion), [race model](https://github.com/garethjns/RaceModel), [spatial capture](https://github.com/garethjns/SpatialCapture)
+**Publications:** [Current Opinion in Neurobiology, 2016](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:3s1wT3WcHBgC),[BSA & SFN confs., 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:pqnbT2bcN3wC), [ARO conf., 2015](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&sortby=pubdate&citation_for_view=cU1sBXcAAAAJ:g5m5HwL7SMYC),[BSA & Auditory Cortex confs., 2014](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=cU1sBXcAAAAJ&citation_for_view=cU1sBXcAAAAJ:rO6llkc54NcC) | **Code:** [Psychometric curve fitting](https://github.com/garethjns/PsychometricCurveFitting), [drift diffusion models](https://github.com/garethjns/DriftDiffusion), [race model](https://github.com/garethjns/RaceModel), [spatial capture](https://github.com/garethjns/SpatialCapture), [NerualAnalysis](https://github.com/garethjns/NeuralAnalysis), [SpatialTaskV2](https://github.com/garethjns/SpatialTaskV2).
  
-Temporal synchrony and spatial congruency are two important cues for perceptual object formation and and recent studies have shown that humans and animals are more flexible with regards to temporal constraints than traditionally believed. This project aims to investigate the flexibility of the spatial constraints informing object formation and its neural correlates.
+Temporal synchrony and spatial congruency are two important cues for perceptual object formation and recent studies have shown that humans and animals are more flexible with regards to temporal constraints than traditionally believed. This project aims to investigate the flexibility of the spatial constraints informing object formation and its neural correlates.
 
 **Techniques:** Neurosurgery; Eye tracking; electrophysiology using multi-channel arrays; Low noise, temporally precise, high throughput data acquisition; psychophysical task design and implementation (PsychToolbox); signal analysis, filtering and cleaning; PCA; spike sorting, signal detection theory; race models; ANOVA; post-stimulus time histograms
  
@@ -50,31 +87,6 @@ Successful insertion of light-sensitive ion channels into cochlear outer hair ce
 The hearing range of mammals varies greatly between species, with some adapted to hear very high frequency sound. This mechanically limits the lower frequency range of the cochlea, however. This project used behavioural methods to find evidence that the sacculus - an evolutionary old inner ear organ designed to detect gravity - may be able to detect lower frequency sounds. This saccular input affects the sensation of sound and enhances sub-conscious reactions such as the acoustic startle reflex and represents an unusual case of "multi"-sensory integration. 
 
 
-## Kaggle ([profile](https://www.kaggle.com/garethjns))
-### EEG Seizure Prediction (2016) 
-
-**Publications**: [Kaggle Blog, 2017](http://blog.kaggle.com/2017/01/10/seizure-prediction-competition-3rd-place-winners-interview-gareth-jones/) | [**Code**](https://github.com/garethjns/Kaggle-EEG) | 
-**[Details](https://www.kaggle.com/c/melbourne-university-seizure-prediction/forums/t/26039/solutions)**  
-Using data from chronic multi channel electrode arrays implanted in human subjects to predict in advance the occurrence of epileptic seizures.
- - Final position: 3rd (top solo entry)  
-
-**Techniques**: Signal processing, SVMs, tree ensembles, advanced cross validation.
-
-
-### Integer Sequence Learning (2016 - top 5%)
-**Publications:** [Kaggle Blog, 2016](http://blog.kaggle.com/2016/11/21/integer-sequence-learning-competition-solution-write-up-team-1-618-gareth-jones-laurent-borderie/) | **[Details and code](https://github.com/garethjns/Kaggle-IntegerSequenceLearning)**  
-Predicting the next term in integer sequences taken from the Online Encyclopedia of Integer sequences.
-- Final position: 17th  
-
-**Techniques:** R; linear and non-linear regression; autoregressive models; SVMs; model validation with limited data; sequence tagging; unsupervised clustering; Markov chains.
-
-### BNP Parabis Cardif (2016)
-**[Details and code](https://github.com/garethjns/Kaggle-BNPPC)**  
-**Techniques:** Extra Trees Classifiers in scikit-learn (Pyhton/Scikit-learn/Numpy/Pandas).
-
-### Santander (2016)
-**[Details and code](https://github.com/garethjns/Kaggle-Santander)**  
-**Techniques:** Extra Trees in Python; Random forests in R (xgboost)
 
 
   
