@@ -3,10 +3,10 @@
 ## Kaggle ([profile](https://www.kaggle.com/garethjns))
 
 ### Data science bowl 2017
-https://www.kaggle.com/c/data-science-bowl-2017
-Predicting lung cancer occurrence from 3D CT scans. Code will be added after competition close (13/04/2017).
+[**Details and Code (Python)**](https://github.com/garethjns/Kaggle-DSB-2017)
+Predicting lung cancer occurrence from 3D CT scans.
 
- - Current position: ~350/1906
+ - Final position: Stage 1: ~350/2000, stage 2: 188/415.
 
 **Techniques**: Image pre-processing, implementation of 2D convolutional UNET model in Keras, 3D convolutional neural networks for nodule assessment (TensorFlow), boosted trees (XGBoost) for classification and ensembling of all models.
 
