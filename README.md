@@ -3,7 +3,7 @@
 ## Kaggle ([profile](https://www.kaggle.com/garethjns))
 
 ### Data science bowl 2017
-[**Details and Code (Python)**](https://github.com/garethjns/Kaggle-DSB-2017)
+[**Details and Code (Python)**](https://github.com/garethjns/Kaggle-DSB-2017)  
 Predicting lung cancer occurrence from 3D CT scans.
 
  - Final position: Stage 1: ~350/2000, stage 2: 188/415.
