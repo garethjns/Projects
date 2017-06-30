@@ -1,6 +1,15 @@
 # Projects
 
-## Kaggle ([profile](https://www.kaggle.com/garethjns))
+## Kaggle (Overall 171/~60,000: [profile](https://www.kaggle.com/garethjns))
+
+### NOAA Fisheries Steller Sea Lion Population Count - Bronze medal
+[**Details and Code (Python)**](https://github.com/garethjns/Kaggle-Sea-Lions-Solution)  
+Identifying sex and age, and counting sea lions from overhead photos.
+
+ - Final position: 69/393 
+
+**Techniques**: Image pre-processing and segmentation based on annotation colour, implementation of 2D convolutional UNET model (keras), implementation of image and window-level 2D convolutional nerual nets (keras), modeling ensembling using stacking and averaging.
+
 
 ### Data science bowl 2017 - top 10%
 [**Details and Code (Python)**](https://github.com/garethjns/Kaggle-DSB-2017)  
