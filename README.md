@@ -2,6 +2,12 @@
 
 ## Kaggle (Overall 171/~60,000: [profile](https://www.kaggle.com/garethjns))
 
+### Personalized Medicine: Redefining Cancer Treatment
+[**Details**](https://www.kaggle.com/c/msk-redefining-cancer-treatment)  
+Classifying genes and variations based on automatic interpretation of academic texts
+
+**Techniques**: Bags of words (LSA, td-idf), topic analysis (LDA, NMF), word-embedding (Word2Vec, doc2vec), feature extraction from text (RNNs, CNNs).
+
 ### NOAA Fisheries Steller Sea Lion Population Count - Bronze medal
 [**Details and Code (Python)**](https://github.com/garethjns/Kaggle-Sea-Lions-Solution)  
 Identifying sex and age, and counting sea lions from overhead photos.
