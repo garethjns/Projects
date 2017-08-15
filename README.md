@@ -6,7 +6,7 @@
 [**Details**](https://www.kaggle.com/c/msk-redefining-cancer-treatment)  
 Classifying genes and variations based on automatic interpretation of academic texts
 
-**Techniques**: Bags of words (LSA, td-idf), topic analysis (LDA, NMF), word-embedding (Word2Vec, doc2vec), feature extraction from text (RNNs, CNNs).
+**Techniques**: Bags of words (LSA, td-idf), topic analysis (LDA, NMF), word-embedding (Word2Vec, doc2vec), feature extraction from text (RNNs, CNNs), classification (XGBoost, LightGBM).
 
 ### NOAA Fisheries Steller Sea Lion Population Count - Bronze medal
 [**Details and Code (Python)**](https://github.com/garethjns/Kaggle-Sea-Lions-Solution)  
